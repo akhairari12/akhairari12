@@ -8,7 +8,7 @@
 
 - I plan to take Data Structures, Data Wrangling with R, and Discrete Structures next semester.
 
--What I find fascinating outside of data science and computer science is building Legos, golf, and playing Pickleball with my friends.
+-What I find fascinating outside of data science and computer science is building Legos, golf, and playing Pickleball with my friends. I also want to learn how to cook.
 
 - A fun fact about me is that I used to study political science before getting involved in STEM.
 
