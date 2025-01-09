@@ -4,7 +4,7 @@
   
 -I am currently working on an API that can handle my schedules, and emails and even look at any data I wish upon request.
 
--I am currently learning how to use Python to develop bots so it can help me with my workload. In my academics, I am also learning Java through Intro to Computer Science and how to use statistical methods to validate my code through Statistical Inference for Data Science. 
+-I am currently learning how to use Python to develop bots so it can help me with my workload. I am also studying for the AWS Cloud Pratitioner Exam. In my academics, I am also learning Java through Intro to Computer Science and how to use statistical methods to validate my code through Statistical Inference for Data Science. 
 
 -I plan to take Data Structures, Data Wrangling with R, and Discrete Structures next semester.
 
